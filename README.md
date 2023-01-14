@@ -1,1 +1,1 @@
-# Chessboard layout and physics of the game
+# Chessboard layout
